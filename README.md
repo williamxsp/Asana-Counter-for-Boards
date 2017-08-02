@@ -17,8 +17,8 @@ Great! The sum will appear at the columns title
 
 Examples of expected numbers format in tasks:
 
+- task [2] 
 - task [42] nice
-- task [42] nice
-- task[3.14]
-- [-1] task
+- task[1.23]
+- [-5] task
 
